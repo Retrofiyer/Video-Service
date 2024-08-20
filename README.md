@@ -49,7 +49,7 @@ The Video Service is a RESTful API built using Spring Boot. The Video Service pl
 ## Built With
 
 [![Spring Boot][springboot.com]][springboot-url]
-[![PostgreSQL][postgresql.com]][postgresql-url]
+[![MongoDB][mongodb.com]][mongodb-url]
 [![RabbitMQ][rabbitmq.com]][rabbitmq-url]
 [![Swagger][swagger.com]][swagger-url] [![Docker][docker.com]][docker-url]
 
@@ -109,5 +109,5 @@ I would like you to contribute to this project. Whether it's fixing a bug, addin
 [rabbitmq-url]: https://www.rabbitmq.com/
 [swagger.com]: https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=swagger&logoColor=white
 [swagger-url]: https://swagger.io/
-[postgresql.com]: https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white
-[postgresql-url]: https://www.postgresql.org/
+[mongodb.com]: https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white
+[mongodb-url]: https://www.mongodb.com/
